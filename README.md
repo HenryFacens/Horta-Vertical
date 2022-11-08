@@ -332,8 +332,8 @@ Para que tudo se encaixe perfeitamente, atente-se aos processos de montagem dito
 Centro Universitário Facens 
 
 Equipe Técnica *Smart Campus* 
-Facens:  
+Facens:
+Henry Santuriao Almeida
 Alison Meneses dos Santos  
 Renato Augusto de Santana Alencar
-Henry Santuriao Almeida
 </div>
